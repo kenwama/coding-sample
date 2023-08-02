@@ -1,0 +1,56 @@
+.main-image-contact {
+  background-image: url(../img/contact-page-bgi@2x.jpg);
+  background-repeat: no-repeat;
+  height: 50vh;
+  padding: 16px 20px;
+}
+
+.site-title.contact {
+  text-align: center;
+  margin-top: 130px;
+}
+
+.site-sub-title {
+  text-align: left;
+  font-size: 40px;
+  margin-top: 40px;
+  opacity: 0.05;
+}
+
+.form-label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-label.title {
+  margin-bottom: 16px;
+}
+
+.checkbox-list {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.submit-button {
+  width: 235px;
+  height: 59px;
+  text-align: center;
+  line-height: 59px;
+  background-color: #f7d43f;
+  box-shadow: 0 0 6px #1b1310;
+  color: #171717;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50px;
+  border: inherit;
+}
